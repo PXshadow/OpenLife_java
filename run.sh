@@ -1,0 +1,1 @@
+java -cp openlife.jar main.java
